@@ -22,13 +22,17 @@ li {
 p {
   border: 0;
   left: 12.5%;
-  margin: 3% 0 0%;
+  margin: 3% 0 0;
   position: relative;
   width: 75%;
 }
 
 footer {
   margin: 8% 0 0;
+}
+
+.emphasis {
+  font-style: italic;
 }
 
 .half-col {
